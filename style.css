@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(31, 28, 28);
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+#d1 {
+    text-align: center;
+    margin: 10% 25%;
+    margin-top: 100px;
+}
+
+img {
+    height: 100%;
+    border: 5px solid rgb(172, 165, 165);
+    width: 100%;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: rgb(236, 232, 232);
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+p {
+    color: rgb(208, 211, 214);
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 5px;
+}
